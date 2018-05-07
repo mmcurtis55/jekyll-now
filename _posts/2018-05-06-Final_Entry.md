@@ -2,7 +2,7 @@
 layout: post
 title: CS373 Spring 2018:Matthew Curtis
 ---
-Week 12: 9 Mar - 15 April
+Last Entry: 6 May
 
 ![Matthew Curtis]({{ site.baseurl }}/images/mmcurtis55_profile.jpeg)
 
